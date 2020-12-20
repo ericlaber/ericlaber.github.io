@@ -52,4 +52,4 @@ references for background and/or further study will be provided with each topic.
 General references that you may find useful include: 
 - *Elements of Statistical Learning* Hastie, Tibshirani, and Freedman  [PDF](https://web.stanford.edu/~hastie/ElemStatLearn/)
 - *Reinforcement learning* Sutton and Barto [PDF](http://incompleteideas.net/book/the-book.html)
-- *Pattern Classification* Duda, Hart, and Stork [Amazon](https://www.amazon.com/Pattern-Classification-Pt-1-Richard-Duda/dp/0471056693/ref=sr_1_1?dchild=1&keywords=duda+and+hart&qid=1608491709&sr=8-1), there are pdfs online from the authors and copies at the library but they ask others not to distribute so note linked here
+- *Pattern Classification* Duda, Hart, and Stork [Amazon](https://www.amazon.com/Pattern-Classification-Pt-1-Richard-Duda/dp/0471056693/ref=sr_1_1?dchild=1&keywords=duda+and+hart&qid=1608491709&sr=8-1), there are pdfs online from the authors and copies at the library but they ask others not to distribute so not linked here
