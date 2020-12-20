@@ -91,4 +91,5 @@ that does automatic grooming...I might be able to get behind that.)
 
 
 
-
+## Lectures
+1. Review of linear regresion
