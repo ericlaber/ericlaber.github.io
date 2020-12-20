@@ -53,3 +53,42 @@ General references that you may find useful include:
 - *Elements of Statistical Learning,* Hastie, Tibshirani, and Freedman  [PDF](https://web.stanford.edu/~hastie/ElemStatLearn/)
 - *Reinforcement learning,* Sutton and Barto [PDF](http://incompleteideas.net/book/the-book.html)
 - *Pattern Classification,* Duda, Hart, and Stork [Amazon](https://www.amazon.com/Pattern-Classification-Pt-1-Richard-Duda/dp/0471056693/ref=sr_1_1?dchild=1&keywords=duda+and+hart&qid=1608491709&sr=8-1), there are pdfs online from the authors and copies at the library but they ask others not to distribute so not linked here
+
+## Advice 
+The objective of this course is to develop your statistical thinking for prediction
+and decision problems. I strongly encourage you to work with your classmates on
+all homework and projects and to focus on a deep understanding rather than
+your grades.  Some of the problems will be ambiguous and open-ended.  This is
+(mostly) intentional and intended to provide you with practice making choices
+and assumptions when you approach an ill-defined problem.  (In application, problems
+are rarely cleanly when they first reach you.)  I also encourage you to find other
+sources of information that explain the same material another way or that explore issues
+that we didn't cover in class.  
+
+## Grading
+Grades will be based on homework (50%), exams (30%), and a project (20%).  You can work
+with your classmates on everything but the exams. Thus, by appealing to the wisdom of 
+crowds, there is no reason for low HW scores.  Late homework will not be accepted but the
+lowest two homeworks will be dropped.  
+
+## COVID
+Due to COVID-19 the course will be entirely online.  This is unfortunate because meeting in person
+can often give me clues about which topics are causing confusion (or boredom!) and allow me
+to adapt material accordingly.  Because I won't be able to see your eyes gloss over or see the pained
+expressions on your faces, we will need to take extra steps to make sure that everyone
+is following along.  Please let me or your TAs know if you are struggling with the material 
+and if/what extra content might be helpful.  We may also need to slow down to accommodate this new format.
+I would rather you learn 10 topics well than 15 topics poorly.  
+
+## Once my student
+Once my student, always my student.  After this class if over, please don't hesitate 
+to reach out if there's something you think I might be able to help you with. (Statistics-wise or
+lifewise etc.  However, 
+I don't want support the go fund me for your novel, I read a few of the chapters you released 
+online, and let's be honest, they're not very good. Your writing is terrible and we are all
+dumber for having read them. Now, that idea you had for an doggie-door
+that does automatic grooming...I might be able to get behind that.) 
+
+
+
+
