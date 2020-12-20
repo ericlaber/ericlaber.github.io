@@ -1,4 +1,4 @@
-### Welcome to STA 561 Probabilistic Machine Learning
+# Welcome to STA 561 Probabilistic Machine Learning
 
 ## Quick references:
 - Instructor: Eric Laber, eric.laber@duke.edu, laber-labs.com
