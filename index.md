@@ -40,7 +40,7 @@ it appears that there is interest.
 8.  Partial linear models 
 9.  Active learning (i.e., sequential experimental design)
 10.  Large margin classifiers 
-11.  Nearest neight methods 
+11.  Nearest neighbor methods 
 12.  Batch decision problems (one-stage)
 13.  Batch decision problems (mult-stage)
 14.  Contextual bandits 
