@@ -1,9 +1,11 @@
 # Welcome to STA 561 Probabilistic Machine Learning
 
 ## Quick references:
-- Instructor: Eric Laber, eric.laber@duke.edu, laber-labs.com
-- Office hours:  M-W 10-11AM or by appt, location: zoom 
-- TA office hours will be set in your lab sections
+* Instructor: Eric Laber, eric.laber@duke.edu, laber-labs.com
+* Office hours:  M-W 10-11AM or by appt, location: zoom 
+* TAs: 
+  - Yi Guo (yi.guo1@duke.edu)
+* TA office hours will be set in your lab sections 
 
 ## Overview 
 The goal of this course is introduce the statsitical underpinnings needed to solve a
