@@ -4,7 +4,12 @@
 * Instructor: Eric Laber, eric.laber@duke.edu, laber-labs.com
 * Office hours:  M-W 10-11AM or by appt, location: zoom 
 * TAs: 
+  - Yuhan Chen (yhan.chen@duke.edu)
   - Yi Guo (yi.guo1@duke.edu)
+  - Vinayak Gupta (vinayak.gupta@duke.edu)
+  - Hunter Klein (michael.klein413@duke.edu)
+  - Bai Li (bai.li@duke.edu)
+  - Ed Tam (edric.tam@duke.edu)
 * TA office hours will be set in your lab sections 
 
 ## Overview 
