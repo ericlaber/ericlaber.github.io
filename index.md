@@ -11,6 +11,7 @@
   - Bai Li (bai.li@duke.edu)
   - Ed Tam (edric.tam@duke.edu)
 * TA office hours will be set in your lab sections 
+*  [Sakai](https://sakai.duke.edu/portal/site/b0ba811d-cafc-492e-9a06-ad835eb8529d)
 
 ## Overview 
 The goal of this course is introduce the statsitical underpinnings needed to solve a
