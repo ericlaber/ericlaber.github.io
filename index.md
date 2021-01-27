@@ -106,4 +106,5 @@ that does automatic grooming...I might be able to get behind that.)
 - [lineberger_study_data.csv](https://github.com/ericlaber/ericlaber.github.io/raw/main/docs/lineberger_study_data.csv)
 - Lab topic: Intro to pycharm and jupyter notebooks 
 2. Linear regression and regularization
+- [Slides](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/topic_one_linear_regression_regularization.pdf)
 - Lab topic: Ridge and Lasso with CV, GCV, AIC, and BIC
