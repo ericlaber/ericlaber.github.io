@@ -111,3 +111,4 @@ that does automatic grooming...I might be able to get behind that.)
 - [Slides](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/topic_one_linear_regression_regularization.pdf)
 - [Homework two](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/hw2_2021.pdf)
 - Lab topic: Ridge and Lasso with CV, GCV, AIC, and BIC
+- Optional additional reading: Chapter three of [ESL](https://web.stanford.edu/~hastie/ElemStatLearn/)
