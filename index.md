@@ -110,5 +110,7 @@ that does automatic grooming...I might be able to get behind that.)
 2. Linear regression and regularization
 - [Slides](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/topic_one_linear_regression_regularization.pdf)
 - [Homework two](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/hw2_2021.pdf)
+- [allSubsets.R](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/allSubsets.R)
+- [growingLinerModel.R](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/growingLinearModel.R)
 - Lab topic: Ridge and Lasso with CV, GCV, AIC, and BIC
 - Optional additional reading: Chapter three of [ESL](https://web.stanford.edu/~hastie/ElemStatLearn/)
