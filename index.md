@@ -117,5 +117,6 @@ that does automatic grooming...I might be able to get behind that.)
 
 3. Scaling up 
 - [Slides](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/topic_two_scaling_up.pdf)
+[Homework two](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/hw3_2021_reasonable_version.pdf)
 - [distributed OLS and Lasso example R code](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/gen_distributed_data.R)
-- Lab topic: Random Projections
+- Lab topic: Kernel methods
