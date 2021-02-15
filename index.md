@@ -116,6 +116,6 @@ that does automatic grooming...I might be able to get behind that.)
 - Optional additional reading: Chapter three of [ESL](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
 3. Scaling up 
-- [Slides](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/topic_one_linear_regression_regularization.pdf)
+- [Slides](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/topic_two_scaling_up.pdf)
 - [distributed OLS and Lasso example R code](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/gen_distributed_data.R)
 - Lab topic: Random Projections
