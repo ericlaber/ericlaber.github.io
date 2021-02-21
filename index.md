@@ -120,3 +120,4 @@ that does automatic grooming...I might be able to get behind that.)
 - [Homework three](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/hw3_2021_reasonable_version.pdf)
 - [distributed OLS and Lasso example R code](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/gen_distributed_data.R)
 - Lab topic: Kernel methods
+- Optional additional reading:  [Dual Ridge Regression](https://www.seas.upenn.edu/~cis520/papers/dual_ridge.pdf), [Random Projections and Large Scale Regression](https://arxiv.org/pdf/1701.05325.pdf)
