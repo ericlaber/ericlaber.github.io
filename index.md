@@ -62,6 +62,10 @@ General references that you may find useful include:
 - *Reinforcement learning,* Sutton and Barto [PDF](http://incompleteideas.net/book/the-book.html)
 - *Pattern Classification,* Duda, Hart, and Stork [Amazon](https://www.amazon.com/Pattern-Classification-Pt-1-Richard-Duda/dp/0471056693/ref=sr_1_1?dchild=1&keywords=duda+and+hart&qid=1608491709&sr=8-1), there are pdfs online from the authors  but they've asked others not to distribute so not linked here
 
+Some references on classic linear models that may be useful for background include
+- *Linear Models with Python,* Faraway [Amazon](https://www.amazon.com/Linear-Models-Chapman-Statistical-Science/dp/1138483958/ref=sr_1_2?dchild=1&keywords=linear+models+in+python&qid=1614171236&s=books&sr=1-2)
+- *Transformation and Weighting in Regression,* Carroll and Ruppert [Amazon](https://www.amazon.com/Transformation-Regression-Monographs-Statistics-Probability/dp/0412014211/ref=sr_1_5?dchild=1&keywords=transformation+regression&qid=1614171344&s=books&sr=1-5)
+
 ## Advice 
 The objective of this course is to develop your statistical thinking for prediction
 and decision problems. I strongly encourage you to work with your classmates on
