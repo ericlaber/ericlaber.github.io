@@ -122,6 +122,7 @@ that does automatic grooming...I might be able to get behind that.)
 3. Scaling up 
 - [Slides](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/topic_two_scaling_up.pdf)
 - [Homework three](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/hw3_2021_reasonable_version.pdf)
+- [SIS example R code](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/screen.R)
 - [distributed OLS and Lasso example R code](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/gen_distributed_data.R)
 - [distributed KM](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/km_streaming.py)
 - [distributed Cox-PH](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/coxph.R)
