@@ -128,6 +128,7 @@ that does automatic grooming...I might be able to get behind that.)
 - [distributed OLS and Lasso example R code](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/gen_distributed_data.R)
 - [distributed KM](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/km_streaming.py)
 - [distributed Cox-PH](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/coxph.R)
+- [Simple projections R code](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/simple_random_projection.R)
 - Lab topic: Kernel methods
 - Optional additional reading:  [Dual Ridge Regression](https://www.seas.upenn.edu/~cis520/papers/dual_ridge.pdf), [Random Projections and Large Scale Regression](https://arxiv.org/pdf/1701.05325.pdf)
 - [PRFAQ Plan Template](https://github.com/ericlaber/ericlaber.github.io/raw/main/docs/PRFAQ%20Plan.docx)
