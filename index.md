@@ -139,3 +139,4 @@ that does automatic grooming...I might be able to get behind that.)
 
 4. Classification
 - [Slides](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/topic_three_getting_classy.pdf)
+- [Homework six](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/hw6_2021.pdf)
