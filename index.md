@@ -140,3 +140,8 @@ that does automatic grooming...I might be able to get behind that.)
 4. Classification
 - [Slides](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/topic_three_getting_classy.pdf)
 - [Homework six](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/hw6_2021.pdf)
+- [Uniform Random Forests](https://arxiv.org/pdf/1407.3939.pdf)
+- [Breiman (2001) Random Forests](https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf)
+- [Convex Surrogates](https://people.eecs.berkeley.edu/~wainwrig/stat241b/bartlettetal.pdf)
+- [Intro to generalization error](https://arxiv.org/pdf/1812.08696.pdf) 
+- [Convex surrogates in simple decision problems](https://jmlr.csail.mit.edu/papers/volume20/18-191/18-191.pdf) 
