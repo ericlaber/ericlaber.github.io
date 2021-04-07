@@ -145,3 +145,6 @@ that does automatic grooming...I might be able to get behind that.)
 - [Convex Surrogates](https://people.eecs.berkeley.edu/~wainwrig/stat241b/bartlettetal.pdf)
 - [Intro to generalization error](https://arxiv.org/pdf/1812.08696.pdf) 
 - [Convex surrogates in simple decision problems](https://jmlr.csail.mit.edu/papers/volume20/18-191/18-191.pdf) 
+
+5. Decision making
+- [Slides](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/topic_four_decisions_are_hard.pdf)
