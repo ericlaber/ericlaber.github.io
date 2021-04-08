@@ -148,3 +148,4 @@ that does automatic grooming...I might be able to get behind that.)
 
 5. Decision making
 - [Slides](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/topic_four_decisions_are_hard.pdf)
+- [Homework 7-8](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/hw78_2021.pdf)
