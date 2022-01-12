@@ -2,16 +2,14 @@
 
 ## Quick references:
 * Instructor: Eric Laber, eric.laber@duke.edu, laber-labs.com
-* Office hours:  M-W 10-11AM or by appt, location: zoom 
+* Office hours:  M-W 11:40AM-12:30PM or by appt, location: zoom 
 * TAs: 
-  - Yuhan Chen (yhan.chen@duke.edu)
-  - Yi Guo (yi.guo1@duke.edu)
-  - Vinayak Gupta (vinayak.gupta@duke.edu)
+  - Andrea Aveni (andrea.aveni@duke.edu)
+  - Saksham Jain (saksham.jain@duke.edu)
   - Hunter Klein (michael.klein413@duke.edu)
-  - Bai Li (bai.li@duke.edu)
-  - Ed Tam (edric.tam@duke.edu)
+  - Jianyi Zhang (jianyi.zhang@duke.edu)
 * TA office hours will be set in your lab sections 
-*  [Course Sakai Page](https://sakai.duke.edu/portal/site/b0ba811d-cafc-492e-9a06-ad835eb8529d)
+*  [Course Sakai Page](https://sakai.duke.edu/portal/site/1be7412f-edf2-4008-83ca-8a6ca525316b)
 
 ## Overview 
 The goal of this course is introduce the statsitical underpinnings needed to solve a
@@ -27,7 +25,7 @@ spent on proofs and derivations, the homework will involve putting these indeas 
 with simulation experiments or data anlyses.  
 
 ## Pre-requisites 
-I will assume that students havea basic understanding of mathematical statistics,
+I will assume that students have a basic understanding of mathematical statistics,
 calculus, basic analyses, linear algebgra, and computing.  There are many excellent 
 resources online for shoring gaps in these areas.  Coursera, EdX, Udemy, YouTube, etc., are a
 great place to start.  While I will do my best to review key ideas, I will take for
