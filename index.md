@@ -76,13 +76,13 @@ sources of information that explain the same material another way or that explor
 that we didn't cover in class.  
 
 ## Grading
-Grades will be based on homework (50%), exams (30%), and a project (20%).  You can work
-with your classmates on everything but the exams. Thus, by appealing to the wisdom of 
+Grades will be based on homework (80%) and a project (20%).  You can work
+with your classmates on everything. Thus, by appealing to the wisdom of 
 crowds, there is no reason for low HW scores.  Late homework will not be accepted but the
 lowest two homeworks will be dropped.  
 
 ## COVID
-Due to COVID-19 the course will be entirely online.  This is unfortunate because meeting in person
+Due to COVID-19 the course will be partly online.  This is unfortunate because meeting in person
 can often give me clues about which topics are causing confusion (or boredom!) and allow me
 to adapt material accordingly.  Because I won't be able to see your eyes gloss over or see the pained
 expressions on your faces, we will need to take extra steps to make sure that everyone
