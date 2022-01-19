@@ -7,6 +7,8 @@
   - Andrea Aveni (andrea.aveni@duke.edu)
   - Saksham Jain (saksham.jain@duke.edu)
   - Hunter Klein (michael.klein413@duke.edu)
+  - Karthik K (karthikeyan.k@duke.edu)
+  - Raghuveer Thirukovalluru (raghuveer.thirukovalluru@duke.edu)
   - Jianyi Zhang (jianyi.zhang@duke.edu)
 * TA office hours will be set in your lab sections 
 *  [Course Sakai Page](https://sakai.duke.edu/portal/site/1be7412f-edf2-4008-83ca-8a6ca525316b)
