@@ -107,6 +107,7 @@ that does automatic grooming...I might be able to get behind that.)
 - [Homework one](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/hw1_2021.pdf)
 - [Image example notebook](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/image_example.ipynb)
 - [lineberger_study_data.csv](https://github.com/ericlaber/ericlaber.github.io/raw/main/docs/lineberger_study_data.csv)
+- [Material summary and proofs](https://github.com/ericlaber/ericlaber.github.io/raw/main/docs/linear_reg_notes_part_one_2022.pdf)
 - Lab topic: Intro to pycharm and jupyter notebooks 
 
 2. Linear regression and regularization
