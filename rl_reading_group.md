@@ -1,17 +1,13 @@
 # Stat RL Reading Group 
 
+## Overview and purpose:
+* Review bandit and MDP literature related to real-world decision problems
+* Focus on statistical properties/considerations
+* Find new lines of research
+
 ## Quick references:
 * Instructor: Eric Laber, eric.laber@duke.edu, laber-labs.com
-* Office hours:  M-W 11:40AM-12:30PM or by appt, location: zoom 
-* TAs: 
-  - Andrea Aveni (andrea.aveni@duke.edu)
-  - Saksham Jain (saksham.jain@duke.edu)
-  - Hunter Klein (michael.klein413@duke.edu)
-  - Karthik K (karthikeyan.k@duke.edu)
-  - Raghuveer Thirukovalluru (raghuveer.thirukovalluru@duke.edu)
-  - Jianyi Zhang (jianyi.zhang@duke.edu)
-* TA office hours will be set in your lab sections 
-*  [Course Sakai Page](https://sakai.duke.edu/portal/site/1be7412f-edf2-4008-83ca-8a6ca525316b)
+* Sign-up sheet [Google Sheets](https://docs.google.com/spreadsheets/d/1Q-o8h3q568U-5ddjr3JxyS0b8nlADj6uuS6NJjlWFdA/edit?usp=sharing)
 
 ## Overview 
 The goal of this course is introduce the statsitical underpinnings needed to solve a
