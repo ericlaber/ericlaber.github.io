@@ -135,7 +135,7 @@ that does automatic grooming...I might be able to get behind that.)
 - [Robbins and Monro (1951)](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/Robbins1951.pdf)
 - [Exam one (This is for fun this year!)](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/exam_one_2021.pdf)
 - [Homework four](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/hw4_1_2022.pdf)
-- [Homework five and six](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/hw4_2021.pdf)
+- [Homework five and six](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/hw56_2022.pdf)
 
 4. Classification
 - [Slides](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/topic_three_getting_classy.pdf)
