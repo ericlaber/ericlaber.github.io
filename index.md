@@ -1,17 +1,19 @@
-# Welcome to STA 561 Probabilistic Machine Learning
+# Welcome to STA 561 Probabilistic Machine Learning Spring 2023
 
 ## Quick references:
 * Instructor: Eric Laber, eric.laber@duke.edu, laber-labs.com
-* Office hours:  M-W 11:40AM-12:30PM or by appt, location: zoom 
+* Office hours:  M 9:00AM-10:00AM, Sun 8PM or by appt, location: zoom 
 * TAs: 
-  - Andrea Aveni (andrea.aveni@duke.edu)
-  - Saksham Jain (saksham.jain@duke.edu)
-  - Hunter Klein (michael.klein413@duke.edu)
-  - Karthik K (karthikeyan.k@duke.edu)
-  - Raghuveer Thirukovalluru (raghuveer.thirukovalluru@duke.edu)
-  - Jianyi Zhang (jianyi.zhang@duke.edu)
+  - Raphael Morsomme (raphael.morsomme@duke.edu)
+  - Pritam Dey (pritam.dey@duke.edu)
+  - Yueqi Guo (yueqi.guo@duke.edu)
+  - Rick Presman (rick.presman@duke.edu)
+  - Kunal Gupta (kunal.gupta@duke.edu)
+  - Karthikeyan K (kk405@duke.edu)
+  - Daniela De Albuquerque (daniela.de.albuquerque@duke.edu)
+  - Jiachang Liu (jiachang.liu@duke.edu)
 * TA office hours will be set in your lab sections 
-*  [Course Sakai Page](https://sakai.duke.edu/portal/site/1be7412f-edf2-4008-83ca-8a6ca525316b)
+*  [Course Sakai Page](https://sakai.duke.edu/portal/directtool/1e82ca35-6fea-440f-985c-cae5506c5691/)
 
 ## Overview 
 The goal of this course is introduce the statsitical underpinnings needed to solve a
