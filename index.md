@@ -114,6 +114,8 @@ that does automatic grooming...I might be able to get behind that.)
 - [Material summary and proofs](https://github.com/ericlaber/ericlaber.github.io/raw/main/docs/linear_reg_notes_part_one_2022.pdf)
 - Lab topic: Intro to pycharm and jupyter notebooks 
 
+EVERYTHING BELOW THIS IS OUT OF DATE!  
+
 2. Linear regression and regularization
 - [Slides](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/topic_one_linear_regression_regularization.pdf)
 - [Homework two](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/hw2_2022.pdf)
