@@ -107,7 +107,7 @@ that does automatic grooming...I might be able to get behind that.)
 
 ## Lectures
 1. Review of linear regresion
-- [Slides](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/topic_zero_linear_regression_basics_2022.pdf)
+- [Slides](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/topic_zero_linear_regression_basics_2023.pdf)
 - [Homework one](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/hw1_2021.pdf)
 - [Image example notebook](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/image_example.ipynb)
 - [lineberger_study_data.csv](https://github.com/ericlaber/ericlaber.github.io/raw/main/docs/lineberger_study_data.csv)
