@@ -129,7 +129,7 @@ EVERYTHING BELOW THIS IS OUT OF DATE!
 
 3. Scaling up 
 - [Slides](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/topic_two_scaling_up.pdf)
-- [Homework three](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/hw3_2021_reasonable_version.pdf)
+- [Homework three](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/hw3_2023_reasonable_version.pdf)
 - [SIS example R code](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/screen.R)
 - [distributed OLS and Lasso example R code](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/gen_distributed_data.R)
 - [distributed Cox-PH](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/coxph.R)
