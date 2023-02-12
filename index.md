@@ -125,7 +125,7 @@ that does automatic grooming...I might be able to get behind that.)
 - Lab topic: Ridge and Lasso with CV, GCV, AIC, and BIC
 - Optional additional reading: Chapter three of [ESL](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
-EVERYTHING BELOW THIS IS OUT OF DATE! 
+
 
 3. Scaling up 
 - [Slides](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/topic_two_scaling_up.pdf)
@@ -139,6 +139,7 @@ EVERYTHING BELOW THIS IS OUT OF DATE!
 - [PRFAQ Plan Template](https://github.com/ericlaber/ericlaber.github.io/raw/main/docs/PRFAQ%20Plan.docx)
 - [An interactive review of gradient descent](https://the-learning-machine.com/article/optimization/gradient-descent)
 - [Robbins and Monro (1951)](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/Robbins1951.pdf)
+- EVERYTHING BELOW THIS IS OUT OF DATE! 
 - [Exam one (This is for fun this year!)](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/exam_one_2021.pdf)
 - [Homework four](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/hw4_1_2022.pdf)
 - [Homework five and six](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/hw56_2022.pdf)
