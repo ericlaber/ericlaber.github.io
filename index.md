@@ -140,7 +140,7 @@ that does automatic grooming...I might be able to get behind that.)
 - [An interactive review of gradient descent](https://the-learning-machine.com/article/optimization/gradient-descent)
 - [Robbins and Monro (1951)](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/Robbins1951.pdf)
 - [Exam one (This is for fun this year!)](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/exam_one_2021.pdf)
-- [Homework four Updated!](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/hw4_1_2022.pdf)
+- [Homework four Updated!](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/hw4_1_2023.pdf)
 - EVERYTHING BELOW THIS IS OUTDATED
 - [Homework five and six](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/hw56_2022.pdf)
 
