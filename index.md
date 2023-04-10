@@ -151,15 +151,15 @@ that does automatic grooming...I might be able to get behind that.)
 - [Convex Surrogates](https://people.eecs.berkeley.edu/~wainwrig/stat241b/bartlettetal.pdf)
 - [Intro to generalization error](https://arxiv.org/pdf/1812.08696.pdf) 
 - [Convex surrogates in simple decision problems](https://jmlr.csail.mit.edu/papers/volume20/18-191/18-191.pdf)
-- EVERYTHING BELOW THIS IS OUTDATED 
-- [Homework seven](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/hw6_2021.pdf)
+- [Homework seven](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/hw7_2023.pdf)
 
 5. Decision making
 - [Slides](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/topic_four_decisions_are_hard.pdf)
-- [Homework 8-9](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/hw78_2021.pdf)
 - [Review of precision medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6502478/)
 - [Excellent review of bandits](https://arxiv.org/abs/1904.07272)
 - [What's so special about Markov Decision Processes?](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.1580&rep=rep1&type=pdf)
 - [V-learning](https://www.tandfonline.com/doi/10.1080/01621459.2018.1537919)
 - [Bayesian Selection Paradoxes](https://www.jstor.org/stable/4355805?seq=1#metadata_info_tab_contents)
+- EVERYTHING BELOW HERE IS OUTDATED
+- [Homework 8-9](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/hw78_2021.pdf)
 - [Final homework (finally!)](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/hw9_2021.pdf)
