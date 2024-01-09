@@ -56,7 +56,7 @@ it appears that there is interest.
 15.  Reinforcement learning
 
 ## Notes on the notes below
-I'll be updating the notes as I go along. Some I'll update a lot, some only a little.
+I'll be updating the notes as we go along. Some I'll update a lot, some only a little.
 Read ahead of class at you own peril.  But, be warned, you might learn something that's
 not on the exam (gasp!)  Also, there isn't an exam (double gasp!)
 
