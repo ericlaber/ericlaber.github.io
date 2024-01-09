@@ -55,6 +55,11 @@ it appears that there is interest.
 14.  Contextual bandits 
 15.  Reinforcement learning
 
+## Notes on the notes below
+I'll be updating the notes as I go along. Some I'll update a lot, some only a little.
+Read ahead of class at you own peril.  But, be warned, you might learn something that's
+not on the exam (gasp!)  Also, there isn't an exam (double gasp!)
+
 ## References
 We will primarily use slides and the (virtual) whiteboard for lectures.  A list of
 references for background and/or further study will be provided with each topic. 
