@@ -87,7 +87,7 @@ that we didn't cover in class.
 Grades will be based on homework (80%) and a project (20%).  You can work
 with your classmates on everything. Thus, by appealing to the wisdom of 
 crowds, there is no reason for low HW scores.  Late homework will not be accepted but the
-lowest two homeworks will be dropped.  
+lowest homework will be dropped.  
 
 ## COVID
 Due to COVID-19 the course will be partly online.  This is unfortunate because meeting in person
