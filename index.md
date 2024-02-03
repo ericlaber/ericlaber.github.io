@@ -122,7 +122,7 @@ that does automatic grooming...I might be able to get behind that.)
 
 2. Linear regression and regularization
 - [Slides](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/topic_one_linear_regression_regularization.pdf)
-- [Homework two](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/hw2_2024.pdf)
+- [Homework two](https://github.com/ericlaber/ericlaber.github.io/blob/main/hw2_2024.pdf)
 - [allSubsets.R](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/allSubsetsUpdated2024.R)
 - [growingLinerModel.R](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/growingLinearModel.R)
 - [lasso.R](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/lasso.R)
