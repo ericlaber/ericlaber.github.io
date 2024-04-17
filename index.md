@@ -165,5 +165,5 @@ that does automatic grooming...I might be able to get behind that.)
 - [V-learning](https://www.tandfonline.com/doi/10.1080/01621459.2018.1537919)
 - [Bayesian Selection Paradoxes](https://www.jstor.org/stable/4355805?seq=1#metadata_info_tab_contents)
 - EVERYTHING BELOW HERE IS OUTDATED
-- [Homework 8-9](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/hw78_2021.pdf)
+- [Homework 8-9](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/hw78_2024.pdf)
 - [Final homework (finally!)](https://github.com/ericlaber/ericlaber.github.io/blob/main/docs/hw9_2021.pdf)
